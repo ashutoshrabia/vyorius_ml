@@ -7,8 +7,9 @@ This project builds a basic autonomous agent that navigates a grid-based 2D envi
 1. **Install Python 3.6 or later.**
 2. **Install dependencies:**  
    Run the following command to install the required libraries:
--> pip install pygame numpy
-3. **Run the agent:**  
+   ```bash
+   pip install pygame numpy
+4. **Run the agent:**  
 Execute the script using:
 
 
