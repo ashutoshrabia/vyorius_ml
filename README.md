@@ -11,6 +11,8 @@ This project builds a basic autonomous agent that navigates a grid-based 2D envi
    pip install pygame numpy
 4. **Run the agent:**  
 Execute the script using:
+   ```bash
+   python agent.py
 
 
 ## ML Technique Used
